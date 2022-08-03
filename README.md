@@ -10,12 +10,12 @@ $ git clone https://github.com/fdaus/feature_nfstream.git
 $ cd feature_nfstream
 $
 $ # Virtualenv modules installation (Unix based systems)
-$ # virtualenv env
-$ # source env/bin/activate
+$ virtualenv env
+$ source env/bin/activate
 $
 $ # Virtualenv modules installation (Windows based systems)
-$ virtualenv env
-$ .\env\Scripts\activate
+$ # virtualenv env
+$ # .\env\Scripts\activate
 $
 $ # Install modules
 $ pip install -r requirements.txt
